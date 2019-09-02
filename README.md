@@ -1,1 +1,4 @@
-python_pong
+## **Python Pong**
+
+## **Technology Used**
+python, turtle graphics
